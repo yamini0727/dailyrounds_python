@@ -85,6 +85,5 @@ Run the script with optional arguments to customize its behavior.
    - Check if the script was interrupted before saving outputs.
    - Ensure write permissions for the output directory.
 
-## License
-This script is open-source and available for modification or distribution.
+
 
